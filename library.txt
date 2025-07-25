@@ -15,3 +15,6 @@ usage: git init [-q | --quiet] [--bare] [--template=<template-directory>]
                           override the name of the initial branch
     --[no-]object-format <hash>
                           specify the hash algorithm to use
+
+
+Adding random data
