@@ -1,7 +1,8 @@
 Question A
-
+10000
 Question B
-
+1000
 Question C
-
+100
 Question D
+10
